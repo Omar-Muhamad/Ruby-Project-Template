@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Decode-Morse-Code
+# project name here
 
-> In this project we made a method to convert Morse code message to a string we can read using Ruby language.
+> Project description here.
 
 ## Built With
 
